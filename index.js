@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('welcometo docker...........');
+  res.send('welcome to docker conatiner...........');
 
 });
 
